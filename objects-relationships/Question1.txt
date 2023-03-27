@@ -1,0 +1,11 @@
+1. a.email address
+b. identification card
+c.telephone number
+d. employee identification
+
+2. a. computer - serial numbers
+b. Person - fingerprint
+
+
+3. composition-  Person has a computer
+
